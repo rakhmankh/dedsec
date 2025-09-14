@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pydeck
+h3
+scikit-learn
+lightgbm
+joblib
+geopy
+scipy
